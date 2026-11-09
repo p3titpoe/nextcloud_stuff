@@ -145,7 +145,9 @@ a2enmod headers rewrite env dir mime
 > 
 > As this writing has been updated to Debian on 13, default version was php8.4
 > Depending on your system, the php version might be different and
-> you need <ins>__to change the lines mentioning version 8.4__</ins> to your version of php. 
+> you need <ins>__to change the lines mentioning version 8.4__</ins> to your version of php.
+>
+> As of php8.5, the php-json is not needed anymore as it's std lib  
 
 
 Install needed php modules
